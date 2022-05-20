@@ -1,4 +1,4 @@
-# MFacrory Web Portfolio
+# MFactory Web Portfolio
 
 Website to showcase the growing portfolio of Michael Capistrano
 
