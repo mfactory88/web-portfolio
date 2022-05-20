@@ -6,7 +6,7 @@ Website to showcase the growing portfolio of Michael Capistrano
 
 ![Site Screenshot](/assets/images/image6.png)
 
-[MFACTORY](https://mfactory88.github.io/mc-m1-challenge/Develop/)
+[MFACTORY](https://mfactory88.github.io/web-portfolio/)
 
 ## Languages used
 
